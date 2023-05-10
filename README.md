@@ -37,6 +37,8 @@ Hello there, I'm Eshwar Hebbur!👋
 
 #### ⚡ Recent Activity
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 
 
