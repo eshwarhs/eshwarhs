@@ -15,12 +15,6 @@ jobs:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
 
-      - name: add-comment-script
-        run: |
-         chmod +x "${GITHUB_WORKSPACE}/.github/public/scripts/add-comments.sh"
-         "${GITHUB_WORKSPACE}/.github/public/scripts/add-comments.sh"
-        shell: bash
-
       - uses: actions/upload-artifact@v1
         with:
           name: README.md
