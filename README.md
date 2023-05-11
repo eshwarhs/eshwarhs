@@ -32,20 +32,15 @@ Hello there, I'm Eshwar Hebbur!👋
 
 #### 🔨 Latest Pull Requests I published
 
+- [[docs] fix broken url ada initiative/slackdoc](https://github.com/ToolJet/ToolJet/pull/6362) on [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) (today)
 - [[docs] change image name to fix broken image](https://github.com/ToolJet/ToolJet/pull/6353) on [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) (today)
 - [Trigger Code Pipeline](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/5) on [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) (6 days ago)
 - [update buildspec](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/4) on [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) (1 week ago)
 - [backend-falsk buildspeck.yml](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/3) on [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) (1 week ago)
-- [Week8](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/2) on [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) (1 week ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6353](https://github.com/ToolJet/ToolJet/pull/6353) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
-2. 🎉 Merged PR [#5](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/5) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
-3. 💪 Opened PR [#5](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/5) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
-4. 🎉 Merged PR [#4](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/4) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
-5. 💪 Opened PR [#4](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/4) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
 <!--END_SECTION:activity-->
 
 
