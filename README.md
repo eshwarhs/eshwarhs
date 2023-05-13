@@ -20,11 +20,11 @@ Hello there, I'm Eshwar Hebbur!👋
 
 #### 👷 Check out what I'm currently working on
 
-- [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) -  (1 day ago)
+- [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) -  (today)
+- [eshwarhs/GeoNotif](https://github.com/eshwarhs/GeoNotif) - GeoNotif is a Location-based task notifier (1 day ago)
 - [eshwarhs/eshwarhs.github.io](https://github.com/eshwarhs/eshwarhs.github.io) - My Portfolio Website (2 days ago)
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 (1 week ago)
 - [eshwarhs/Compiler-for-R](https://github.com/eshwarhs/Compiler-for-R) -  (6 months ago)
-- [eshwarhs/RideShare-App](https://github.com/eshwarhs/RideShare-App) -  (6 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -41,11 +41,6 @@ Hello there, I'm Eshwar Hebbur!👋
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6353](https://github.com/ToolJet/ToolJet/issues/6353) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
-2. 💪 Opened PR [#6362](https://github.com/ToolJet/ToolJet/pull/6362) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
-3. 💪 Opened PR [#6353](https://github.com/ToolJet/ToolJet/pull/6353) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
-4. 🎉 Merged PR [#5](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/5) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
-5. 💪 Opened PR [#5](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/5) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
 <!--END_SECTION:activity-->
 
 
