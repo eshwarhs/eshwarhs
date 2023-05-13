@@ -20,8 +20,8 @@ Hello there, I'm Eshwar Hebbur!👋
 
 #### 👷 Check out what I'm currently working on
 
-- [eshwarhs/eshwarhs.github.io](https://github.com/eshwarhs/eshwarhs.github.io) - My Portfolio Website (1 day ago)
-- [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) -  (3 days ago)
+- [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) -  (1 day ago)
+- [eshwarhs/eshwarhs.github.io](https://github.com/eshwarhs/eshwarhs.github.io) - My Portfolio Website (2 days ago)
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 (1 week ago)
 - [eshwarhs/Compiler-for-R](https://github.com/eshwarhs/Compiler-for-R) -  (6 months ago)
 - [eshwarhs/RideShare-App](https://github.com/eshwarhs/RideShare-App) -  (6 months ago)
@@ -32,8 +32,8 @@ Hello there, I'm Eshwar Hebbur!👋
 
 #### 🔨 Latest Pull Requests I published
 
-- [[docs] fix broken url ada initiative/slackdoc](https://github.com/ToolJet/ToolJet/pull/6362) on [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) (1 day ago)
-- [[docs] change image name to fix broken image](https://github.com/ToolJet/ToolJet/pull/6353) on [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) (1 day ago)
+- [[docs] fix broken url ada initiative/slackdoc](https://github.com/ToolJet/ToolJet/pull/6362) on [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) (2 days ago)
+- [[docs] change image name to fix broken image](https://github.com/ToolJet/ToolJet/pull/6353) on [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) (2 days ago)
 - [Trigger Code Pipeline](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/5) on [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) (1 week ago)
 - [update buildspec](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/4) on [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) (1 week ago)
 - [backend-falsk buildspeck.yml](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/3) on [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) (1 week ago)
@@ -41,11 +41,6 @@ Hello there, I'm Eshwar Hebbur!👋
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6362](https://github.com/ToolJet/ToolJet/pull/6362) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
-2. 💪 Opened PR [#6353](https://github.com/ToolJet/ToolJet/pull/6353) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
-3. 🎉 Merged PR [#5](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/5) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
-4. 💪 Opened PR [#5](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/5) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
-5. 🎉 Merged PR [#4](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/4) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
 <!--END_SECTION:activity-->
 
 
