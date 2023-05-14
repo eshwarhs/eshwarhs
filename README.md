@@ -8,6 +8,9 @@ Hello there, I'm Eshwar Hebbur!👋
 
 </div>
 
+### 🛠 Languages and Tools
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
 ### ⚡ GitHub stats
 
 <p align="center">
@@ -17,11 +20,11 @@ Hello there, I'm Eshwar Hebbur!👋
 
 #### 👷 Check out what I'm currently working on
 
-- [eshwarhs/eshwarhs.github.io](https://github.com/eshwarhs/eshwarhs.github.io) - My Portfolio Website (today)
-- [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) -  (1 day ago)
+- [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) -  (today)
+- [eshwarhs/GeoNotif](https://github.com/eshwarhs/GeoNotif) - GeoNotif is a Location-based task notifier (1 day ago)
+- [eshwarhs/eshwarhs.github.io](https://github.com/eshwarhs/eshwarhs.github.io) - My Portfolio Website (2 days ago)
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 (1 week ago)
 - [eshwarhs/Compiler-for-R](https://github.com/eshwarhs/Compiler-for-R) -  (6 months ago)
-- [eshwarhs/RideShare-App](https://github.com/eshwarhs/RideShare-App) -  (6 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -29,20 +32,20 @@ Hello there, I'm Eshwar Hebbur!👋
 
 #### 🔨 Latest Pull Requests I published
 
-- [Trigger Code Pipeline](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/5) on [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) (5 days ago)
-- [update buildspec](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/4) on [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) (6 days ago)
-- [backend-falsk buildspeck.yml](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/3) on [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) (6 days ago)
-- [Week8](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/2) on [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) (6 days ago)
-- [Week7](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/1) on [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) (6 days ago)
+- [[docs] fix broken url ada initiative/slackdoc](https://github.com/ToolJet/ToolJet/pull/6362) on [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) (2 days ago)
+- [[docs] change image name to fix broken image](https://github.com/ToolJet/ToolJet/pull/6353) on [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) (2 days ago)
+- [Trigger Code Pipeline](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/5) on [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) (1 week ago)
+- [update buildspec](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/4) on [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) (1 week ago)
+- [backend-falsk buildspeck.yml](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/3) on [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) (1 week ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/5) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
-2. 💪 Opened PR [#5](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/5) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
-3. 🎉 Merged PR [#4](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/4) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
-4. 💪 Opened PR [#4](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/4) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
-5. 🎉 Merged PR [#3](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/3) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
+1. 🗣 Commented on [#6353](https://github.com/ToolJet/ToolJet/issues/6353) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+2. 💪 Opened PR [#6362](https://github.com/ToolJet/ToolJet/pull/6362) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+3. 💪 Opened PR [#6353](https://github.com/ToolJet/ToolJet/pull/6353) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+4. 🎉 Merged PR [#5](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/5) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
+5. 💪 Opened PR [#5](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/5) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
 <!--END_SECTION:activity-->
 
 
