@@ -20,9 +20,9 @@ Hello there, I'm Eshwar Hebbur!👋
 
 #### 👷 Check out what I'm currently working on
 
-- [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) -  (today)
+- [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) -  (1 day ago)
 - [eshwarhs/GeoNotif](https://github.com/eshwarhs/GeoNotif) - GeoNotif is a Location-based task notifier (1 day ago)
-- [eshwarhs/Cruddur](https://github.com/eshwarhs/Cruddur) - Micro-blogging platform that emulates the features of Twitter, but posts automatically expire after a period of time. (5 days ago)
+- [eshwarhs/Cruddur](https://github.com/eshwarhs/Cruddur) - Micro-blogging platform that emulates the features of Twitter, but posts automatically expire after a period of time. (6 days ago)
 - [eshwarhs/eshwarhs.github.io](https://github.com/eshwarhs/eshwarhs.github.io) - My Portfolio Website (1 week ago)
 - [eshwarhs/Attendance-Manager](https://github.com/eshwarhs/Attendance-Manager) -  (1 week ago)
 
@@ -32,20 +32,15 @@ Hello there, I'm Eshwar Hebbur!👋
 
 #### 🔨 Latest Pull Requests I published
 
-- [refactor jwt to use a decorator, click to close reply window](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/7) on [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) (1 day ago)
-- [Sync code](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/6) on [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) (1 day ago)
+- [Refactor code](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/8) on [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) (1 day ago)
+- [refactor jwt to use a decorator, click to close reply window](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/7) on [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) (2 days ago)
+- [Sync code](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/6) on [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) (2 days ago)
 - [[docs] fix broken url ada initiative/slackdoc](https://github.com/ToolJet/ToolJet/pull/6362) on [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) (1 week ago)
 - [[docs] change image name to fix broken image](https://github.com/ToolJet/ToolJet/pull/6353) on [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) (1 week ago)
-- [Trigger Code Pipeline](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/5) on [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) (2 weeks ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/7) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
-2. 💪 Opened PR [#7](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/7) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
-3. 🎉 Merged PR [#6](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/6) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
-4. 💪 Opened PR [#6](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/6) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
-5. ❌ Closed PR [#6362](https://github.com/ToolJet/ToolJet/pull/6362) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
 <!--END_SECTION:activity-->
 
 
