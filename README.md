@@ -41,6 +41,11 @@ Hello there, I'm Eshwar Hebbur!👋
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#8](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/8) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
+2. 💪 Opened PR [#8](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/8) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
+3. 🎉 Merged PR [#7](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/7) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
+4. 💪 Opened PR [#7](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/7) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
+5. 🎉 Merged PR [#6](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/6) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
 <!--END_SECTION:activity-->
 
 
