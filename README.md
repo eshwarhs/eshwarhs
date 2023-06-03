@@ -21,10 +21,10 @@ Hello there, I'm Eshwar Hebbur!👋
 #### 👷 Check out what I'm currently working on
 
 - [eshwarhs/eshwarhs.github.io](https://github.com/eshwarhs/eshwarhs.github.io) - My Portfolio Website (1 week ago)
-- [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) -  (1 week ago)
-- [eshwarhs/GeoNotif](https://github.com/eshwarhs/GeoNotif) - GeoNotif is a Location-based task notifier (1 week ago)
+- [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) -  (2 weeks ago)
+- [eshwarhs/GeoNotif](https://github.com/eshwarhs/GeoNotif) - GeoNotif is a Location-based task notifier (2 weeks ago)
 - [eshwarhs/Cruddur](https://github.com/eshwarhs/Cruddur) - Micro-blogging platform that emulates the features of Twitter, but posts automatically expire after a period of time. (2 weeks ago)
-- [eshwarhs/Attendance-Manager](https://github.com/eshwarhs/Attendance-Manager) -  (2 weeks ago)
+- [eshwarhs/Attendance-Manager](https://github.com/eshwarhs/Attendance-Manager) -  (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -32,7 +32,7 @@ Hello there, I'm Eshwar Hebbur!👋
 
 #### 🔨 Latest Pull Requests I published
 
-- [Refactor code](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/8) on [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) (1 week ago)
+- [Refactor code](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/8) on [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) (2 weeks ago)
 - [refactor jwt to use a decorator, click to close reply window](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/7) on [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) (2 weeks ago)
 - [Sync code](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/6) on [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) (2 weeks ago)
 - [[docs] fix broken url ada initiative/slackdoc](https://github.com/ToolJet/ToolJet/pull/6362) on [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) (3 weeks ago)
@@ -41,11 +41,6 @@ Hello there, I'm Eshwar Hebbur!👋
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/8) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
-2. 💪 Opened PR [#8](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/8) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
-3. 🎉 Merged PR [#7](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/7) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
-4. 💪 Opened PR [#7](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/7) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
-5. 🎉 Merged PR [#6](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/6) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
 <!--END_SECTION:activity-->
 
 
