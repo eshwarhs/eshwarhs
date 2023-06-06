@@ -20,7 +20,7 @@ Hello there, I'm Eshwar Hebbur!👋
 
 #### 👷 Check out what I'm currently working on
 
-- [eshwarhs/eshwarhs.github.io](https://github.com/eshwarhs/eshwarhs.github.io) - My Portfolio Website (2 days ago)
+- [eshwarhs/eshwarhs.github.io](https://github.com/eshwarhs/eshwarhs.github.io) - My Portfolio Website (3 days ago)
 - [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023) -  (2 weeks ago)
 - [eshwarhs/GeoNotif](https://github.com/eshwarhs/GeoNotif) - GeoNotif is a Location-based task notifier (2 weeks ago)
 - [eshwarhs/Cruddur](https://github.com/eshwarhs/Cruddur) - Micro-blogging platform that emulates the features of Twitter, but posts automatically expire after a period of time. (3 weeks ago)
@@ -41,11 +41,6 @@ Hello there, I'm Eshwar Hebbur!👋
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/8) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
-2. 💪 Opened PR [#8](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/8) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
-3. 🎉 Merged PR [#7](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/7) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
-4. 💪 Opened PR [#7](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/7) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
-5. 🎉 Merged PR [#6](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/6) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
 <!--END_SECTION:activity-->
 
 
