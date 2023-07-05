@@ -28,7 +28,7 @@ Hello there, I'm Eshwar Hebbur!👋
 
 #### 🔭 Latest releases I've contributed to
 
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) ([v2.8.1](https://github.com/ToolJet/ToolJet/releases/tag/v2.8.1), 5 days ago) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) ([v2.9.0](https://github.com/ToolJet/ToolJet/releases/tag/v2.9.0), today) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 
 #### 🔨 Latest Pull Requests I published
 
@@ -41,11 +41,6 @@ Hello there, I'm Eshwar Hebbur!👋
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/8) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
-2. 💪 Opened PR [#8](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/8) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
-3. 🎉 Merged PR [#7](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/7) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
-4. 💪 Opened PR [#7](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/7) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
-5. 🎉 Merged PR [#6](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/6) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
 <!--END_SECTION:activity-->
 
 
