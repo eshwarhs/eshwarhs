@@ -21,29 +21,24 @@ Hello there, I'm Eshwar Hebbur!👋
 #### 👷 Check out what I'm currently working on
 
 - [eshwarhs/Cruddur](https://github.com/eshwarhs/Cruddur) - 🔎 Micro-Blogging platform with ephemeral content and social networking (1 day ago)
-- [eshwarhs/eshwarhs.github.io](https://github.com/eshwarhs/eshwarhs.github.io) - My Portfolio Website (4 days ago)
+- [ReaVNaiL/New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024) - 👋 Hey there new grad🎉! We&#39;ve put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024! 🚀 (1 day ago)
+- [eshwarhs/EverWrite](https://github.com/eshwarhs/EverWrite) -  🗅 EverWrite is a powerful and intuitive note-taking app designed to boost your productivity. Capture and organize your thoughts, ideas, and important information effortlessly. (1 day ago)
+- [eshwarhs/eshwarhs.github.io](https://github.com/eshwarhs/eshwarhs.github.io) - My Portfolio Website (5 days ago)
 - [eshwarhs/GeoNotif](https://github.com/eshwarhs/GeoNotif) - ⏰ GeoNotif is a Location-based task notifier android app that reminds users of pending tasks in the user&#39;s vicinity (2 months ago)
-- [eshwarhs/Attendance-Manager](https://github.com/eshwarhs/Attendance-Manager) -  (2 months ago)
-- [eshwarhs/RideShare-App](https://github.com/eshwarhs/RideShare-App) -  (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) ([v2.11.0](https://github.com/ToolJet/ToolJet/releases/tag/v2.11.0), 4 days ago) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) ([v2.11.0](https://github.com/ToolJet/ToolJet/releases/tag/v2.11.0), 5 days ago) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 
 #### 🔨 Latest Pull Requests I published
 
+- [Change Job Title for Akuna Capital](https://github.com/ReaVNaiL/New-Grad-2024/pull/65) on [ReaVNaiL/New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024) (1 day ago)
 - [Refactor code](https://github.com/eshwarhs/Cruddur/pull/8) on [eshwarhs/Cruddur](https://github.com/eshwarhs/Cruddur) (2 months ago)
 - [refactor jwt to use a decorator, click to close reply window](https://github.com/eshwarhs/Cruddur/pull/7) on [eshwarhs/Cruddur](https://github.com/eshwarhs/Cruddur) (2 months ago)
-- [Sync code](https://github.com/eshwarhs/Cruddur/pull/6) on [eshwarhs/Cruddur](https://github.com/eshwarhs/Cruddur) (2 months ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1454](https://github.com/growthbook/growthbook/issues/1454#issuecomment-1636553287) in [growthbook/growthbook](https://github.com/growthbook/growthbook)
-2. 🗣 Commented on [#1454](https://github.com/growthbook/growthbook/issues/1454#issuecomment-1636427782) in [growthbook/growthbook](https://github.com/growthbook/growthbook)
-3. 🎉 Merged PR [#8](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/8) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
-4. 💪 Opened PR [#8](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/8) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
-5. 🎉 Merged PR [#7](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/7) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
 <!--END_SECTION:activity-->
 
 
