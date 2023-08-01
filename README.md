@@ -28,7 +28,7 @@ Hello there, I'm Eshwar Hebbur!👋
 
 #### 🔭 Latest releases I've contributed to
 
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) ([v2.11.0](https://github.com/ToolJet/ToolJet/releases/tag/v2.11.0), 1 week ago) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) ([v2.11.1](https://github.com/ToolJet/ToolJet/releases/tag/v2.11.1), today) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 
 #### 🔨 Latest Pull Requests I published
 
@@ -39,9 +39,6 @@ Hello there, I'm Eshwar Hebbur!👋
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#65](https://github.com/ReaVNaiL/New-Grad-2024/pull/65) in [ReaVNaiL/New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024)
-2. 🗣 Commented on [#1454](https://github.com/growthbook/growthbook/issues/1454#issuecomment-1636553287) in [growthbook/growthbook](https://github.com/growthbook/growthbook)
-3. 🗣 Commented on [#1454](https://github.com/growthbook/growthbook/issues/1454#issuecomment-1636427782) in [growthbook/growthbook](https://github.com/growthbook/growthbook)
 <!--END_SECTION:activity-->
 
 
