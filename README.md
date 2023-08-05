@@ -39,10 +39,6 @@ Hello there, I'm Eshwar Hebbur!👋
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#65](https://github.com/ReaVNaiL/New-Grad-2024/pull/65) in [ReaVNaiL/New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024)
-2. 🗣 Commented on [#1454](https://github.com/growthbook/growthbook/issues/1454#issuecomment-1636553287) in [growthbook/growthbook](https://github.com/growthbook/growthbook)
-3. 🗣 Commented on [#1454](https://github.com/growthbook/growthbook/issues/1454#issuecomment-1636427782) in [growthbook/growthbook](https://github.com/growthbook/growthbook)
-4. 🎉 Merged PR [#8](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023/pull/8) in [eshwarhs/aws-bootcamp-cruddur-2023](https://github.com/eshwarhs/aws-bootcamp-cruddur-2023)
 <!--END_SECTION:activity-->
 
 
