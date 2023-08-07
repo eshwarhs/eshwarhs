@@ -39,10 +39,6 @@ Hello there, I'm Eshwar Hebbur!👋
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14909](https://github.com/argoproj/argo-cd/issues/14909#issuecomment-1667101909) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-2. 💪 Opened PR [#65](https://github.com/ReaVNaiL/New-Grad-2024/pull/65) in [ReaVNaiL/New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024)
-3. 🗣 Commented on [#1454](https://github.com/growthbook/growthbook/issues/1454#issuecomment-1636553287) in [growthbook/growthbook](https://github.com/growthbook/growthbook)
-4. 🗣 Commented on [#1454](https://github.com/growthbook/growthbook/issues/1454#issuecomment-1636427782) in [growthbook/growthbook](https://github.com/growthbook/growthbook)
 <!--END_SECTION:activity-->
 
 
