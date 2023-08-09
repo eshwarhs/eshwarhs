@@ -20,8 +20,8 @@ Hello there, I'm Eshwar Hebbur!👋
 
 #### 👷 Check out what I'm currently working on
 
-- [eshwarhs/EverWrite](https://github.com/eshwarhs/EverWrite) - 🗒 EverWrite is a powerful and intuitive note-taking app designed to boost your productivity. Capture and organize your thoughts, ideas, and important information effortlessly. (3 days ago)
-- [eshwarhs/eshwarhs.github.io](https://github.com/eshwarhs/eshwarhs.github.io) - My Portfolio Website (5 days ago)
+- [eshwarhs/EverWrite](https://github.com/eshwarhs/EverWrite) - 🗒 EverWrite is a powerful and intuitive note-taking app designed to boost your productivity. Capture and organize your thoughts, ideas, and important information effortlessly. (1 day ago)
+- [eshwarhs/eshwarhs.github.io](https://github.com/eshwarhs/eshwarhs.github.io) - My Portfolio Website (6 days ago)
 - [eshwarhs/Cruddur](https://github.com/eshwarhs/Cruddur) - 🔎 Micro-Blogging platform with ephemeral content and social networking (1 week ago)
 - [ReaVNaiL/New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024) - 👋 Hey there new grad🎉! We&#39;ve put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024! 🚀 (1 week ago)
 - [eshwarhs/GeoNotif](https://github.com/eshwarhs/GeoNotif) - ⏰ GeoNotif is a Location-based task notifier android app that reminds users of pending tasks in the user&#39;s vicinity (2 months ago)
@@ -32,18 +32,13 @@ Hello there, I'm Eshwar Hebbur!👋
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(ui): Change path to &#34;root&#34; when path is root directory](https://github.com/argoproj/argo-cd/pull/14949) on [argoproj/argo-cd](https://github.com/argoproj/argo-cd) (1 day ago)
+- [fix(ui): Change path to &#34;root&#34; when path is root directory](https://github.com/argoproj/argo-cd/pull/14949) on [argoproj/argo-cd](https://github.com/argoproj/argo-cd) (2 days ago)
 - [Change Job Title for Akuna Capital](https://github.com/ReaVNaiL/New-Grad-2024/pull/65) on [ReaVNaiL/New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024) (1 week ago)
 - [Refactor code](https://github.com/eshwarhs/Cruddur/pull/8) on [eshwarhs/Cruddur](https://github.com/eshwarhs/Cruddur) (2 months ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14949](https://github.com/argoproj/argo-cd/pull/14949) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-2. 🗣 Commented on [#14909](https://github.com/argoproj/argo-cd/issues/14909#issuecomment-1668612944) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-3. 🗣 Commented on [#14909](https://github.com/argoproj/argo-cd/issues/14909#issuecomment-1668557732) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-4. 🗣 Commented on [#14909](https://github.com/argoproj/argo-cd/issues/14909#issuecomment-1667101909) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-5. 💪 Opened PR [#65](https://github.com/ReaVNaiL/New-Grad-2024/pull/65) in [ReaVNaiL/New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024)
 <!--END_SECTION:activity-->
 
 
