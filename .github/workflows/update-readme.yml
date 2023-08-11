@@ -23,10 +23,25 @@ jobs:
          "${GITHUB_WORKSPACE}/.github/public/scripts/add-comments.sh"
         shell: bash
 
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+
       - uses: actions/upload-artifact@v1
         with:
           name: README.md
           path: README.md
+
+      - uses: actions/upload-artifact@v3
+        with:
+          name: snake
+          path: dist/
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
