@@ -18,6 +18,12 @@ Hello there, I'm Eshwar Hebbur!👋
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=eshwarhs&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub readme streak stats" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 #### 👷 Check out what I'm currently working on
 
 - [eshwarhs/EverWrite](https://github.com/eshwarhs/EverWrite) - 🗒 EverWrite is a powerful and intuitive note-taking app designed to boost your productivity. Capture and organize your thoughts, ideas, and important information effortlessly. (1 day ago)
@@ -39,11 +45,6 @@ Hello there, I'm Eshwar Hebbur!👋
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14949](https://github.com/argoproj/argo-cd/pull/14949) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-2. 🗣 Commented on [#14909](https://github.com/argoproj/argo-cd/issues/14909#issuecomment-1668612944) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-3. 🗣 Commented on [#14909](https://github.com/argoproj/argo-cd/issues/14909#issuecomment-1668557732) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-4. 🗣 Commented on [#14909](https://github.com/argoproj/argo-cd/issues/14909#issuecomment-1667101909) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-5. 💪 Opened PR [#65](https://github.com/ReaVNaiL/New-Grad-2024/pull/65) in [ReaVNaiL/New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024)
 <!--END_SECTION:activity-->
 
 
