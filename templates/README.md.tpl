@@ -18,6 +18,12 @@ Hello there, I'm Eshwar Hebbur!👋
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=eshwarhs&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub readme streak stats" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
