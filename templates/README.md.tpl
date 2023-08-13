@@ -24,6 +24,10 @@ Hello there, I'm Eshwar Hebbur!👋
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+#### 🏅 View my Certifications 
+<a href="https://www.credly.com/badges/7f788f91-7a8c-4bce-876a-347d99b7036b" target="_blank" rel="noreferrer"> <img src="https://github.com/eshwarhs/eshwarhs/blob/main/assets/Hashicorp_Certified_Terraform_Associate.png" alt="Terraform" width="150" height="150"/> </a>
+<br>
+
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
