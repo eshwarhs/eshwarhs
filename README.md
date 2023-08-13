@@ -24,10 +24,14 @@ Hello there, I'm Eshwar Hebbur!👋
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+#### 🏅 View my Certifications 
+<a href="https://www.credly.com/badges/7f788f91-7a8c-4bce-876a-347d99b7036b" target="_blank" rel="noreferrer"> <img src="https://github.com/eshwarhs/eshwarhs/blob/main/assets/Hashicorp_Certified_Terraform_Associate.png" alt="Terraform" width="150" height="150"/> </a>
+<br>
+
 #### 👷 Check out what I'm currently working on
 
+- [eshwarhs/EverWrite](https://github.com/eshwarhs/EverWrite) - 🗒 EverWrite is a powerful and intuitive note-taking app designed to boost your productivity. Capture and organize your thoughts, ideas, and important information effortlessly. (1 day ago)
 - [eshwarhs/eshwarhs.github.io](https://github.com/eshwarhs/eshwarhs.github.io) - My Portfolio Website (2 days ago)
-- [eshwarhs/EverWrite](https://github.com/eshwarhs/EverWrite) - 🗒 EverWrite is a powerful and intuitive note-taking app designed to boost your productivity. Capture and organize your thoughts, ideas, and important information effortlessly. (3 days ago)
 - [eshwarhs/Cruddur](https://github.com/eshwarhs/Cruddur) - 🔎 Micro-Blogging platform with ephemeral content and social networking (2 weeks ago)
 - [ReaVNaiL/New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024) - 👋 Hey there new grad🎉! We&#39;ve put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024! 🚀 (2 weeks ago)
 - [eshwarhs/GeoNotif](https://github.com/eshwarhs/GeoNotif) - ⏰ GeoNotif is a Location-based task notifier android app that reminds users of pending tasks in the user&#39;s vicinity (2 months ago)
@@ -45,11 +49,6 @@ Hello there, I'm Eshwar Hebbur!👋
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14949](https://github.com/argoproj/argo-cd/pull/14949) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-2. 🗣 Commented on [#14909](https://github.com/argoproj/argo-cd/issues/14909#issuecomment-1668612944) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-3. 🗣 Commented on [#14909](https://github.com/argoproj/argo-cd/issues/14909#issuecomment-1668557732) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-4. 🗣 Commented on [#14909](https://github.com/argoproj/argo-cd/issues/14909#issuecomment-1667101909) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-5. 💪 Opened PR [#65](https://github.com/ReaVNaiL/New-Grad-2024/pull/65) in [ReaVNaiL/New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024)
 <!--END_SECTION:activity-->
 
 
