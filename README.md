@@ -30,11 +30,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [eshwarhs/EverWrite](https://github.com/eshwarhs/EverWrite) - 🗒 EverWrite is a powerful and intuitive note-taking app designed to boost your productivity. Capture and organize your thoughts, ideas, and important information effortlessly. (1 day ago)
-- [eshwarhs/eshwarhs.github.io](https://github.com/eshwarhs/eshwarhs.github.io) - My Portfolio Website (4 days ago)
-- [eshwarhs/Cruddur](https://github.com/eshwarhs/Cruddur) - 🔎 Micro-Blogging platform with ephemeral content and social networking (2 weeks ago)
-- [ReaVNaiL/New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024) - 👋 Hey there new grad🎉! We&#39;ve put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024! 🚀 (2 weeks ago)
-- [eshwarhs/GeoNotif](https://github.com/eshwarhs/GeoNotif) - ⏰ GeoNotif is a Location-based task notifier android app that reminds users of pending tasks in the user&#39;s vicinity (3 months ago)
+- [eshwarhs/CMovies](https://github.com/eshwarhs/CMovies) -  (2 days ago)
+- [eshwarhs/EverWrite](https://github.com/eshwarhs/EverWrite) - 🗒 EverWrite is a powerful and intuitive note-taking app designed to boost your productivity. Capture and organize your thoughts, ideas, and important information effortlessly. (2 days ago)
+- [eshwarhs/eshwarhs.github.io](https://github.com/eshwarhs/eshwarhs.github.io) - My Portfolio Website (5 days ago)
+- [eshwarhs/Cruddur](https://github.com/eshwarhs/Cruddur) - 🔎 Micro-Blogging platform with ephemeral content and social networking (3 weeks ago)
+- [ReaVNaiL/New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024) - 👋 Hey there new grad🎉! We&#39;ve put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024! 🚀 (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -43,16 +43,11 @@
 #### 🔨 Latest Pull Requests I published
 
 - [fix(ui): Change path to &#34;root&#34; when path is root directory](https://github.com/argoproj/argo-cd/pull/14949) on [argoproj/argo-cd](https://github.com/argoproj/argo-cd) (1 week ago)
-- [Change Job Title for Akuna Capital](https://github.com/ReaVNaiL/New-Grad-2024/pull/65) on [ReaVNaiL/New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024) (2 weeks ago)
+- [Change Job Title for Akuna Capital](https://github.com/ReaVNaiL/New-Grad-2024/pull/65) on [ReaVNaiL/New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024) (3 weeks ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1467](https://github.com/kubernetes/kubectl/issues/1467#issuecomment-1681465586) in [kubernetes/kubectl](https://github.com/kubernetes/kubectl)
-2. 💪 Opened PR [#14949](https://github.com/argoproj/argo-cd/pull/14949) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-3. 🗣 Commented on [#14909](https://github.com/argoproj/argo-cd/issues/14909#issuecomment-1668612944) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-4. 🗣 Commented on [#14909](https://github.com/argoproj/argo-cd/issues/14909#issuecomment-1668557732) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-5. 🗣 Commented on [#14909](https://github.com/argoproj/argo-cd/issues/14909#issuecomment-1667101909) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
 <!--END_SECTION:activity-->
 
 
