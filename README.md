@@ -30,9 +30,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [eshwarhs/CMovies](https://github.com/eshwarhs/CMovies) -  (2 days ago)
 - [eshwarhs/EverWrite](https://github.com/eshwarhs/EverWrite) - 🗒 EverWrite is a powerful and intuitive note-taking app designed to boost your productivity. Capture and organize your thoughts, ideas, and important information effortlessly. (2 days ago)
-- [eshwarhs/eshwarhs.github.io](https://github.com/eshwarhs/eshwarhs.github.io) - My Portfolio Website (5 days ago)
+- [eshwarhs/CMovies](https://github.com/eshwarhs/CMovies) -  (3 days ago)
+- [eshwarhs/eshwarhs.github.io](https://github.com/eshwarhs/eshwarhs.github.io) - My Portfolio Website (6 days ago)
 - [eshwarhs/Cruddur](https://github.com/eshwarhs/Cruddur) - 🔎 Micro-Blogging platform with ephemeral content and social networking (3 weeks ago)
 - [ReaVNaiL/New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024) - 👋 Hey there new grad🎉! We&#39;ve put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024! 🚀 (3 weeks ago)
 
@@ -48,11 +48,6 @@
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3585](https://github.com/argilla-io/argilla/issues/3585#issuecomment-1684184156) in [argilla-io/argilla](https://github.com/argilla-io/argilla)
-2. 🗣 Commented on [#1467](https://github.com/kubernetes/kubectl/issues/1467#issuecomment-1681465586) in [kubernetes/kubectl](https://github.com/kubernetes/kubectl)
-3. 💪 Opened PR [#14949](https://github.com/argoproj/argo-cd/pull/14949) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-4. 🗣 Commented on [#14909](https://github.com/argoproj/argo-cd/issues/14909#issuecomment-1668612944) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-5. 🗣 Commented on [#14909](https://github.com/argoproj/argo-cd/issues/14909#issuecomment-1668557732) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
 <!--END_SECTION:activity-->
 
 
