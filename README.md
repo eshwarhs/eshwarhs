@@ -49,6 +49,11 @@
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#3605](https://github.com/argilla-io/argilla/pull/3605) in [argilla-io/argilla](https://github.com/argilla-io/argilla)
+2. 🗣 Commented on [#3585](https://github.com/argilla-io/argilla/issues/3585#issuecomment-1684184156) in [argilla-io/argilla](https://github.com/argilla-io/argilla)
+3. 🗣 Commented on [#1467](https://github.com/kubernetes/kubectl/issues/1467#issuecomment-1681465586) in [kubernetes/kubectl](https://github.com/kubernetes/kubectl)
+4. 💪 Opened PR [#14949](https://github.com/argoproj/argo-cd/pull/14949) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
+5. 🗣 Commented on [#14909](https://github.com/argoproj/argo-cd/issues/14909#issuecomment-1668612944) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
 <!--END_SECTION:activity-->
 
 
