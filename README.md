@@ -30,30 +30,25 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [eshwarhs/EverWrite](https://github.com/eshwarhs/EverWrite) - 🗒 EverWrite is a powerful and intuitive note-taking app designed to boost your productivity. Capture and organize your thoughts, ideas, and important information effortlessly. (4 days ago)
-- [eshwarhs/CMovies](https://github.com/eshwarhs/CMovies) -  (5 days ago)
-- [eshwarhs/eshwarhs.github.io](https://github.com/eshwarhs/eshwarhs.github.io) - My Portfolio Website (1 week ago)
+- [eshwarhs/eshwarhs.github.io](https://github.com/eshwarhs/eshwarhs.github.io) - My Portfolio Website (1 day ago)
+- [eshwarhs/EverWrite](https://github.com/eshwarhs/EverWrite) - 🗒 EverWrite is a powerful and intuitive note-taking app designed to boost your productivity. Capture and organize your thoughts, ideas, and important information effortlessly. (5 days ago)
+- [eshwarhs/CMovies](https://github.com/eshwarhs/CMovies) -  (6 days ago)
 - [eshwarhs/Cruddur](https://github.com/eshwarhs/Cruddur) - 🔎 Micro-Blogging platform with ephemeral content and social networking (3 weeks ago)
 - [ReaVNaiL/New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024) - 👋 Hey there new grad🎉! We&#39;ve put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024! 🚀 (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) ([v2.14.0](https://github.com/ToolJet/ToolJet/releases/tag/v2.14.0), 1 day ago) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) ([v2.14.0](https://github.com/ToolJet/ToolJet/releases/tag/v2.14.0), 2 days ago) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: Add ```logout``` command](https://github.com/argilla-io/argilla/pull/3605) on [argilla-io/argilla](https://github.com/argilla-io/argilla) (1 day ago)
+- [feat: Add ```logout``` command](https://github.com/argilla-io/argilla/pull/3605) on [argilla-io/argilla](https://github.com/argilla-io/argilla) (2 days ago)
 - [fix(ui): Change path to &#34;root&#34; when path is root directory](https://github.com/argoproj/argo-cd/pull/14949) on [argoproj/argo-cd](https://github.com/argoproj/argo-cd) (2 weeks ago)
 - [Change Job Title for Akuna Capital](https://github.com/ReaVNaiL/New-Grad-2024/pull/65) on [ReaVNaiL/New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024) (3 weeks ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3605](https://github.com/argilla-io/argilla/pull/3605) in [argilla-io/argilla](https://github.com/argilla-io/argilla)
-2. 🗣 Commented on [#3585](https://github.com/argilla-io/argilla/issues/3585#issuecomment-1684184156) in [argilla-io/argilla](https://github.com/argilla-io/argilla)
-3. 🗣 Commented on [#1467](https://github.com/kubernetes/kubectl/issues/1467#issuecomment-1681465586) in [kubernetes/kubectl](https://github.com/kubernetes/kubectl)
-4. 💪 Opened PR [#14949](https://github.com/argoproj/argo-cd/pull/14949) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-5. 🗣 Commented on [#14909](https://github.com/argoproj/argo-cd/issues/14909#issuecomment-1668612944) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
 <!--END_SECTION:activity-->
 
 
