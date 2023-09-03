@@ -51,6 +51,11 @@
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#3646](https://github.com/argilla-io/argilla/issues/3646#issuecomment-1702750097) in [argilla-io/argilla](https://github.com/argilla-io/argilla)
+2. 💪 Opened PR [#3676](https://github.com/argilla-io/argilla/pull/3676) in [argilla-io/argilla](https://github.com/argilla-io/argilla)
+3. 🗣 Commented on [#3586](https://github.com/argilla-io/argilla/issues/3586#issuecomment-1691524832) in [argilla-io/argilla](https://github.com/argilla-io/argilla)
+4. 🗣 Commented on [#3612](https://github.com/argilla-io/argilla/issues/3612#issuecomment-1688596143) in [argilla-io/argilla](https://github.com/argilla-io/argilla)
+5. 🗣 Commented on [#4695](https://github.com/jaegertracing/jaeger/issues/4695#issuecomment-1687267895) in [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger)
 <!--END_SECTION:activity-->
 
 
