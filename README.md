@@ -26,13 +26,14 @@
 
 ### 🏅 View my Certifications 
 <a href="https://www.credly.com/badges/7f788f91-7a8c-4bce-876a-347d99b7036b" target="_blank" rel="noreferrer"> <img src="https://github.com/eshwarhs/eshwarhs/blob/main/assets/Hashicorp_Certified_Terraform_Associate.png" alt="Terraform" width="150" height="150"/> </a>
+<a href="https://www.credly.com/badges/f1750192-157a-4baf-b137-3482a55ada5e" target="_blank" rel="noreferrer"> <img src="https://github.com/eshwarhs/eshwarhs/blob/main/assets/aws-certified-cloud-practitioner.png" alt="AWS CCP" width="150" height="150"/> </a>
 <br>
 
 #### 👷 Check out what I'm currently working on
 
+- [eshwarhs/eshwarhs.github.io](https://github.com/eshwarhs/eshwarhs.github.io) - My Portfolio Website (today)
 - [eshwarhs/EverWrite](https://github.com/eshwarhs/EverWrite) - 🗒 EverWrite is a powerful and intuitive note-taking app designed to boost your productivity. Capture and organize your thoughts, ideas, and important information effortlessly. (3 days ago)
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - ✨Argilla: the open-source data curation platform for LLMs (4 days ago)
-- [eshwarhs/eshwarhs.github.io](https://github.com/eshwarhs/eshwarhs.github.io) - My Portfolio Website (1 week ago)
 - [eshwarhs/CMovies](https://github.com/eshwarhs/CMovies) -  (2 weeks ago)
 - [eshwarhs/Cruddur](https://github.com/eshwarhs/Cruddur) - 🔎 Micro-Blogging platform with ephemeral content and social networking (1 month ago)
 
@@ -43,6 +44,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Feature/cli `workspace add-user`](https://github.com/argilla-io/argilla/pull/3712) on [argilla-io/argilla](https://github.com/argilla-io/argilla) (today)
 - [feat/cli : add `python -m argilla workspaces create` command](https://github.com/argilla-io/argilla/pull/3676) on [argilla-io/argilla](https://github.com/argilla-io/argilla) (6 days ago)
 - [feat: Add ```logout``` command](https://github.com/argilla-io/argilla/pull/3605) on [argilla-io/argilla](https://github.com/argilla-io/argilla) (2 weeks ago)
 - [fix(ui): Change path to &#34;root&#34; when path is root directory](https://github.com/argoproj/argo-cd/pull/14949) on [argoproj/argo-cd](https://github.com/argoproj/argo-cd) (4 weeks ago)
@@ -51,11 +53,6 @@
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3680](https://github.com/argilla-io/argilla/issues/3680#issuecomment-1705110538) in [argilla-io/argilla](https://github.com/argilla-io/argilla)
-2. 🗣 Commented on [#3646](https://github.com/argilla-io/argilla/issues/3646#issuecomment-1702750097) in [argilla-io/argilla](https://github.com/argilla-io/argilla)
-3. 💪 Opened PR [#3676](https://github.com/argilla-io/argilla/pull/3676) in [argilla-io/argilla](https://github.com/argilla-io/argilla)
-4. 🗣 Commented on [#3586](https://github.com/argilla-io/argilla/issues/3586#issuecomment-1691524832) in [argilla-io/argilla](https://github.com/argilla-io/argilla)
-5. 🗣 Commented on [#3612](https://github.com/argilla-io/argilla/issues/3612#issuecomment-1688596143) in [argilla-io/argilla](https://github.com/argilla-io/argilla)
 <!--END_SECTION:activity-->
 
 
