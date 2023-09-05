@@ -26,6 +26,7 @@
 
 ### 🏅 View my Certifications 
 <a href="https://www.credly.com/badges/7f788f91-7a8c-4bce-876a-347d99b7036b" target="_blank" rel="noreferrer"> <img src="https://github.com/eshwarhs/eshwarhs/blob/main/assets/Hashicorp_Certified_Terraform_Associate.png" alt="Terraform" width="150" height="150"/> </a>
+<a href="https://www.credly.com/badges/f1750192-157a-4baf-b137-3482a55ada5e" target="_blank" rel="noreferrer"> <img src="https://github.com/eshwarhs/eshwarhs/blob/main/assets/aws-certified-cloud-practitioner.png" alt="AWS CCP" width="150" height="150"/> </a>
 <br>
 
 #### 👷 Check out what I'm currently working on
