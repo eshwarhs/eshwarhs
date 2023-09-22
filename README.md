@@ -31,33 +31,28 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [eshwarhs/EverWrite](https://github.com/eshwarhs/EverWrite) - 🗒 EverWrite is a powerful and intuitive note-taking app designed to boost your productivity. Capture and organize your thoughts, ideas, and important information effortlessly. (2 days ago)
-- [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) - Project for ShellHacks 2023 (4 days ago)
+- [eshwarhs/EverWrite](https://github.com/eshwarhs/EverWrite) - 🗒 EverWrite is a powerful and intuitive note-taking app designed to boost your productivity. Capture and organize your thoughts, ideas, and important information effortlessly. (1 day ago)
+- [eshwarhs/eshwarhs.github.io](https://github.com/eshwarhs/eshwarhs.github.io) - My Portfolio Website (1 day ago)
+- [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) - Project for ShellHacks 2023 (5 days ago)
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - ✨Argilla: the open-source data curation platform for LLMs (2 weeks ago)
-- [eshwarhs/eshwarhs.github.io](https://github.com/eshwarhs/eshwarhs.github.io) - My Portfolio Website (2 weeks ago)
 - [eshwarhs/CMovies](https://github.com/eshwarhs/CMovies) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) ([v2.17.3](https://github.com/ToolJet/ToolJet/releases/tag/v2.17.3), 1 day ago) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
-- [argilla-io/argilla](https://github.com/argilla-io/argilla) ([v1.16.0](https://github.com/argilla-io/argilla/releases/tag/v1.16.0), 3 days ago) - ✨Argilla: the open-source data curation platform for LLMs
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) ([v2.17.4](https://github.com/ToolJet/ToolJet/releases/tag/v2.17.4), 1 day ago) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) ([v1.16.0](https://github.com/argilla-io/argilla/releases/tag/v1.16.0), 4 days ago) - ✨Argilla: the open-source data curation platform for LLMs
 
 #### 🔨 Latest Pull Requests I published
 
-- [Feat: Implement dashboard table](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/4) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (4 days ago)
-- [Fix errors in CDP data](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/3) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (5 days ago)
-- [Added controversy level to dataset](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/1) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (5 days ago)
+- [Feat: Implement dashboard table](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/4) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (5 days ago)
+- [Fix errors in CDP data](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/3) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (6 days ago)
+- [Added controversy level to dataset](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/1) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (6 days ago)
 - [feat: add `workspace add-user` command](https://github.com/argilla-io/argilla/pull/3712) on [argilla-io/argilla](https://github.com/argilla-io/argilla) (2 weeks ago)
 - [feat/cli : add `python -m argilla workspaces create` command](https://github.com/argilla-io/argilla/pull/3676) on [argilla-io/argilla](https://github.com/argilla-io/argilla) (3 weeks ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3712](https://github.com/argilla-io/argilla/pull/3712) in [argilla-io/argilla](https://github.com/argilla-io/argilla)
-2. 🗣 Commented on [#3680](https://github.com/argilla-io/argilla/issues/3680#issuecomment-1705110538) in [argilla-io/argilla](https://github.com/argilla-io/argilla)
-3. 🗣 Commented on [#3646](https://github.com/argilla-io/argilla/issues/3646#issuecomment-1702750097) in [argilla-io/argilla](https://github.com/argilla-io/argilla)
-4. 💪 Opened PR [#3676](https://github.com/argilla-io/argilla/pull/3676) in [argilla-io/argilla](https://github.com/argilla-io/argilla)
-5. 🗣 Commented on [#3586](https://github.com/argilla-io/argilla/issues/3586#issuecomment-1691524832) in [argilla-io/argilla](https://github.com/argilla-io/argilla)
 <!--END_SECTION:activity-->
 
 
