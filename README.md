@@ -53,6 +53,8 @@
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#3712](https://github.com/argilla-io/argilla/pull/3712) in [argilla-io/argilla](https://github.com/argilla-io/argilla)
+2. 🗣 Commented on [#3680](https://github.com/argilla-io/argilla/issues/3680#issuecomment-1705110538) in [argilla-io/argilla](https://github.com/argilla-io/argilla)
 <!--END_SECTION:activity-->
 
 
