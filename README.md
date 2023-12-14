@@ -39,8 +39,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) ([v2.25.0](https://github.com/ToolJet/ToolJet/releases/tag/v2.25.0), 5 days ago) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
-- [argilla-io/argilla](https://github.com/argilla-io/argilla) ([v1.20.0](https://github.com/argilla-io/argilla/releases/tag/v1.20.0), 1 week ago) - ✨Argilla: the open-source feedback platform for LLMs
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) ([v2.26.0](https://github.com/ToolJet/ToolJet/releases/tag/v2.26.0), 1 day ago) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) ([v1.20.0](https://github.com/argilla-io/argilla/releases/tag/v1.20.0), 2 weeks ago) - ✨Argilla: the open-source feedback platform for LLMs
 
 #### 🔨 Latest Pull Requests I published
 
