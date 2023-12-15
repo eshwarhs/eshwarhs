@@ -39,14 +39,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) ([v2.26.0](https://github.com/ToolJet/ToolJet/releases/tag/v2.26.0), 1 day ago) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) ([v2.26.0](https://github.com/ToolJet/ToolJet/releases/tag/v2.26.0), 2 days ago) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) ([v1.20.0](https://github.com/argilla-io/argilla/releases/tag/v1.20.0), 2 weeks ago) - ✨Argilla: the open-source feedback platform for LLMs
 
 #### 🔨 Latest Pull Requests I published
 
 - [Feat: Implement dashboard table](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/4) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (2 months ago)
-- [Fix errors in CDP data](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/3) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (2 months ago)
-- [Added controversy level to dataset](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/1) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (2 months ago)
+- [Fix errors in CDP data](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/3) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (3 months ago)
+- [Added controversy level to dataset](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/1) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (3 months ago)
 - [feat: add `workspace add-user` command](https://github.com/argilla-io/argilla/pull/3712) on [argilla-io/argilla](https://github.com/argilla-io/argilla) (3 months ago)
 - [feat/cli : add `python -m argilla workspaces create` command](https://github.com/argilla-io/argilla/pull/3676) on [argilla-io/argilla](https://github.com/argilla-io/argilla) (3 months ago)
 
