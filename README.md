@@ -39,7 +39,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) ([v2.27.1](https://github.com/ToolJet/ToolJet/releases/tag/v2.27.1), 5 days ago) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) ([v2.27.1](https://github.com/ToolJet/ToolJet/releases/tag/v2.27.1), 6 days ago) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) ([v1.21.0](https://github.com/argilla-io/argilla/releases/tag/v1.21.0), 1 week ago) - ✨Argilla: the open-source feedback platform for LLMs
 
 #### 🔨 Latest Pull Requests I published
@@ -47,7 +47,7 @@
 - [Feat: Implement dashboard table](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/4) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (3 months ago)
 - [Fix errors in CDP data](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/3) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (3 months ago)
 - [Added controversy level to dataset](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/1) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (3 months ago)
-- [feat: add `workspace add-user` command](https://github.com/argilla-io/argilla/pull/3712) on [argilla-io/argilla](https://github.com/argilla-io/argilla) (3 months ago)
+- [feat: add `workspace add-user` command](https://github.com/argilla-io/argilla/pull/3712) on [argilla-io/argilla](https://github.com/argilla-io/argilla) (4 months ago)
 - [feat/cli : add `python -m argilla workspaces create` command](https://github.com/argilla-io/argilla/pull/3676) on [argilla-io/argilla](https://github.com/argilla-io/argilla) (4 months ago)
 
 #### ⚡ Recent Activity
