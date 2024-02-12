@@ -31,7 +31,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (5 days ago)
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (6 days ago)
 - [eshwarhs/Cruddur](https://github.com/eshwarhs/Cruddur) - 🔎 Micro-Blogging platform with ephemeral content and social networking (4 months ago)
 - [eshwarhs/TerraTowns](https://github.com/eshwarhs/TerraTowns) -  (4 months ago)
 - [eshwarhs/EverWrite](https://github.com/eshwarhs/EverWrite) - 🗒 EverWrite is a powerful and intuitive note-taking app designed to boost your productivity. Capture and organize your thoughts, ideas, and important information effortlessly. (4 months ago)
@@ -39,9 +39,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argilla-io/argilla](https://github.com/argilla-io/argilla) ([v1.24.0](https://github.com/argilla-io/argilla/releases/tag/v1.24.0), 2 days ago) - ✨Argilla: the open-source feedback platform for LLMs
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) ([v2.28.3](https://github.com/ToolJet/ToolJet/releases/tag/v2.28.3), 3 days ago) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.10.0](https://github.com/argoproj/argo-cd/releases/tag/v2.10.0), 5 days ago) - Declarative Continuous Deployment for Kubernetes
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) ([v1.24.0](https://github.com/argilla-io/argilla/releases/tag/v1.24.0), 3 days ago) - ✨Argilla: the open-source feedback platform for LLMs
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) ([v2.28.3](https://github.com/ToolJet/ToolJet/releases/tag/v2.28.3), 4 days ago) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.10.0](https://github.com/argoproj/argo-cd/releases/tag/v2.10.0), 6 days ago) - Declarative Continuous Deployment for Kubernetes
 
 #### 🔨 Latest Pull Requests I published
 
@@ -54,7 +54,6 @@
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#533](https://github.com/microsoft/sample-app-aoai-chatGPT/issues/533#issuecomment-1929856991) in [microsoft/sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatGPT)
 <!--END_SECTION:activity-->
 
 
