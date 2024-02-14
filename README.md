@@ -39,13 +39,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argilla-io/argilla](https://github.com/argilla-io/argilla) ([v1.24.0](https://github.com/argilla-io/argilla/releases/tag/v1.24.0), 4 days ago) - ✨Argilla: the open-source feedback platform for LLMs
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) ([v2.28.3](https://github.com/ToolJet/ToolJet/releases/tag/v2.28.3), 5 days ago) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) ([v2.28.4](https://github.com/ToolJet/ToolJet/releases/tag/v2.28.4), 1 day ago) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) ([v1.24.0](https://github.com/argilla-io/argilla/releases/tag/v1.24.0), 5 days ago) - ✨Argilla: the open-source feedback platform for LLMs
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.10.0](https://github.com/argoproj/argo-cd/releases/tag/v2.10.0), 1 week ago) - Declarative Continuous Deployment for Kubernetes
 
 #### 🔨 Latest Pull Requests I published
 
-- [Feat: Implement dashboard table](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/4) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (4 months ago)
+- [Feat: Implement dashboard table](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/4) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (5 months ago)
 - [Fix errors in CDP data](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/3) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (5 months ago)
 - [Added controversy level to dataset](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/1) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (5 months ago)
 - [feat: add `workspace add-user` command](https://github.com/argilla-io/argilla/pull/3712) on [argilla-io/argilla](https://github.com/argilla-io/argilla) (5 months ago)
@@ -54,7 +54,6 @@
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#533](https://github.com/microsoft/sample-app-aoai-chatGPT/issues/533#issuecomment-1929856991) in [microsoft/sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatGPT)
 <!--END_SECTION:activity-->
 
 
