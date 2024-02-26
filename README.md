@@ -34,12 +34,12 @@
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (2 weeks ago)
 - [eshwarhs/Cruddur](https://github.com/eshwarhs/Cruddur) - 🔎 Micro-Blogging platform with ephemeral content and social networking (4 months ago)
 - [eshwarhs/TerraTowns](https://github.com/eshwarhs/TerraTowns) -  (4 months ago)
-- [eshwarhs/EverWrite](https://github.com/eshwarhs/EverWrite) - 🗒 EverWrite is a powerful and intuitive note-taking app designed to boost your productivity. Capture and organize your thoughts, ideas, and important information effortlessly. (4 months ago)
+- [eshwarhs/EverWrite](https://github.com/eshwarhs/EverWrite) - 🗒 EverWrite is a powerful and intuitive note-taking app designed to boost your productivity. Capture and organize your thoughts, ideas, and important information effortlessly. (5 months ago)
 - [eshwarhs/eshwarhs.github.io](https://github.com/eshwarhs/eshwarhs.github.io) - My Portfolio Website (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) ([v2.30.2](https://github.com/ToolJet/ToolJet/releases/tag/v2.30.2), 3 days ago) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) ([v2.30.2](https://github.com/ToolJet/ToolJet/releases/tag/v2.30.2), 4 days ago) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.10.1](https://github.com/argoproj/argo-cd/releases/tag/v2.10.1), 1 week ago) - Declarative Continuous Deployment for Kubernetes
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) ([v1.24.0](https://github.com/argilla-io/argilla/releases/tag/v1.24.0), 2 weeks ago) - ✨Argilla: the open-source feedback platform for LLMs
 
@@ -49,12 +49,11 @@
 - [Fix errors in CDP data](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/3) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (5 months ago)
 - [Added controversy level to dataset](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/1) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (5 months ago)
 - [feat: add `workspace add-user` command](https://github.com/argilla-io/argilla/pull/3712) on [argilla-io/argilla](https://github.com/argilla-io/argilla) (5 months ago)
-- [feat/cli : add `python -m argilla workspaces create` command](https://github.com/argilla-io/argilla/pull/3676) on [argilla-io/argilla](https://github.com/argilla-io/argilla) (5 months ago)
+- [feat/cli : add `python -m argilla workspaces create` command](https://github.com/argilla-io/argilla/pull/3676) on [argilla-io/argilla](https://github.com/argilla-io/argilla) (6 months ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#533](https://github.com/microsoft/sample-app-aoai-chatGPT/issues/533#issuecomment-1929856991) in [microsoft/sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatGPT)
 <!--END_SECTION:activity-->
 
 
