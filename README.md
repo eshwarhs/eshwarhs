@@ -39,22 +39,21 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) ([v2.34.0](https://github.com/ToolJet/ToolJet/releases/tag/v2.34.0), 3 days ago) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.8.14](https://github.com/argoproj/argo-cd/releases/tag/v2.8.14), 4 days ago) - Declarative Continuous Deployment for Kubernetes
-- [argilla-io/argilla](https://github.com/argilla-io/argilla) ([v1.26.1](https://github.com/argilla-io/argilla/releases/tag/v1.26.1), 5 days ago) - Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) ([v2.34.0](https://github.com/ToolJet/ToolJet/releases/tag/v2.34.0), 4 days ago) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.8.14](https://github.com/argoproj/argo-cd/releases/tag/v2.8.14), 5 days ago) - Declarative Continuous Deployment for Kubernetes
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) ([v1.26.1](https://github.com/argilla-io/argilla/releases/tag/v1.26.1), 6 days ago) - Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.
 
 #### 🔨 Latest Pull Requests I published
 
 - [Feat: Implement dashboard table](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/4) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (6 months ago)
 - [Fix errors in CDP data](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/3) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (6 months ago)
 - [Added controversy level to dataset](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/1) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (6 months ago)
-- [feat: add `workspace add-user` command](https://github.com/argilla-io/argilla/pull/3712) on [argilla-io/argilla](https://github.com/argilla-io/argilla) (6 months ago)
+- [feat: add `workspace add-user` command](https://github.com/argilla-io/argilla/pull/3712) on [argilla-io/argilla](https://github.com/argilla-io/argilla) (7 months ago)
 - [feat/cli : add `python -m argilla workspaces create` command](https://github.com/argilla-io/argilla/pull/3676) on [argilla-io/argilla](https://github.com/argilla-io/argilla) (7 months ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#533](https://github.com/microsoft/sample-app-aoai-chatGPT/issues/533#issuecomment-1929856991) in [microsoft/sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatGPT)
 <!--END_SECTION:activity-->
 
 
