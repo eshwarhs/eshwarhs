@@ -33,14 +33,14 @@
 
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (2 months ago)
 - [eshwarhs/Cruddur](https://github.com/eshwarhs/Cruddur) - 🔎 Micro-Blogging platform with ephemeral content and social networking (6 months ago)
-- [eshwarhs/TerraTowns](https://github.com/eshwarhs/TerraTowns) -  (6 months ago)
+- [eshwarhs/TerraTowns](https://github.com/eshwarhs/TerraTowns) -  (7 months ago)
 - [eshwarhs/EverWrite](https://github.com/eshwarhs/EverWrite) - 🗒 EverWrite is a powerful and intuitive note-taking app designed to boost your productivity. Capture and organize your thoughts, ideas, and important information effortlessly. (7 months ago)
 - [eshwarhs/eshwarhs.github.io](https://github.com/eshwarhs/eshwarhs.github.io) - My Portfolio Website (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.10.8](https://github.com/argoproj/argo-cd/releases/tag/v2.10.8), 2 days ago) - Declarative Continuous Deployment for Kubernetes
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) ([v2.37.0](https://github.com/ToolJet/ToolJet/releases/tag/v2.37.0), 3 days ago) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.10.8](https://github.com/argoproj/argo-cd/releases/tag/v2.10.8), 3 days ago) - Declarative Continuous Deployment for Kubernetes
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) ([v2.37.0](https://github.com/ToolJet/ToolJet/releases/tag/v2.37.0), 4 days ago) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) ([v1.27.0](https://github.com/argilla-io/argilla/releases/tag/v1.27.0), 1 week ago) - Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.
 
 #### 🔨 Latest Pull Requests I published
@@ -54,7 +54,6 @@
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#533](https://github.com/microsoft/sample-app-aoai-chatGPT/issues/533#issuecomment-1929856991) in [microsoft/sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatGPT)
 <!--END_SECTION:activity-->
 
 
