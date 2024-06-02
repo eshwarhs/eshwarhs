@@ -32,14 +32,14 @@
 #### 👷 Check out what I'm currently working on
 
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (3 months ago)
-- [eshwarhs/Cruddur](https://github.com/eshwarhs/Cruddur) - 🔎 Micro-Blogging platform with ephemeral content and social networking (7 months ago)
+- [eshwarhs/Cruddur](https://github.com/eshwarhs/Cruddur) - 🔎 Micro-Blogging platform with ephemeral content and social networking (8 months ago)
 - [eshwarhs/TerraTowns](https://github.com/eshwarhs/TerraTowns) -  (8 months ago)
 - [eshwarhs/EverWrite](https://github.com/eshwarhs/EverWrite) - 🗒 EverWrite is a powerful and intuitive note-taking app designed to boost your productivity. Capture and organize your thoughts, ideas, and important information effortlessly. (8 months ago)
 - [eshwarhs/eshwarhs.github.io](https://github.com/eshwarhs/eshwarhs.github.io) - My Portfolio Website (8 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [argilla-io/argilla](https://github.com/argilla-io/argilla) ([v1.29.0](https://github.com/argilla-io/argilla/releases/tag/v1.29.0), 2 days ago) - Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) ([v1.29.0](https://github.com/argilla-io/argilla/releases/tag/v1.29.0), 3 days ago) - Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.9.16](https://github.com/argoproj/argo-cd/releases/tag/v2.9.16), 1 week ago) - Declarative Continuous Deployment for Kubernetes
 
 #### 🔨 Latest Pull Requests I published
