@@ -39,12 +39,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.9.17](https://github.com/argoproj/argo-cd/releases/tag/v2.9.17), 6 days ago) - Declarative Continuous Deployment for Kubernetes
-- [argilla-io/argilla](https://github.com/argilla-io/argilla) ([v1.29.0](https://github.com/argilla-io/argilla/releases/tag/v1.29.0), 1 week ago) - Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.9.17](https://github.com/argoproj/argo-cd/releases/tag/v2.9.17), 1 week ago) - Declarative Continuous Deployment for Kubernetes
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) ([v1.29.0](https://github.com/argilla-io/argilla/releases/tag/v1.29.0), 2 weeks ago) - Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Feat: Implement dashboard table](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/4) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (8 months ago)
+- [Feat: Implement dashboard table](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/4) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (9 months ago)
 - [Fix errors in CDP data](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/3) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (9 months ago)
 - [Added controversy level to dataset](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/1) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (9 months ago)
 - [feat: add `workspace add-user` command](https://github.com/argilla-io/argilla/pull/3712) on [argilla-io/argilla](https://github.com/argilla-io/argilla) (9 months ago)
