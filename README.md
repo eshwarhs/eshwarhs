@@ -39,8 +39,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.9.18](https://github.com/argoproj/argo-cd/releases/tag/v2.9.18), 3 days ago) - Declarative Continuous Deployment for Kubernetes
-- [argilla-io/argilla](https://github.com/argilla-io/argilla) ([v2.0.0rc1](https://github.com/argilla-io/argilla/releases/tag/v2.0.0rc1), 2 weeks ago) - Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) ([v2.0.0rc2](https://github.com/argilla-io/argilla/releases/tag/v2.0.0rc2), 1 day ago) - Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.9.18](https://github.com/argoproj/argo-cd/releases/tag/v2.9.18), 4 days ago) - Declarative Continuous Deployment for Kubernetes
 
 #### 🔨 Latest Pull Requests I published
 
