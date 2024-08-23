@@ -31,7 +31,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Stuthi2310/Stuthi2310.github.io](https://github.com/Stuthi2310/Stuthi2310.github.io) - Personal Portfolio (1 day ago)
+- [Stuthi2310/Stuthi2310.github.io](https://github.com/Stuthi2310/Stuthi2310.github.io) - Personal Portfolio (2 days ago)
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (6 months ago)
 - [eshwarhs/Cruddur](https://github.com/eshwarhs/Cruddur) - 🔎 Micro-Blogging platform with ephemeral content and social networking (10 months ago)
 - [eshwarhs/TerraTowns](https://github.com/eshwarhs/TerraTowns) -  (10 months ago)
@@ -39,7 +39,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.8.21](https://github.com/argoproj/argo-cd/releases/tag/v2.8.21), today) - Declarative Continuous Deployment for Kubernetes
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.9.22](https://github.com/argoproj/argo-cd/releases/tag/v2.9.22), 1 day ago) - Declarative Continuous Deployment for Kubernetes
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) ([v2.0.1](https://github.com/argilla-io/argilla/releases/tag/v2.0.1), 1 week ago) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
 
 #### 🔨 Latest Pull Requests I published
