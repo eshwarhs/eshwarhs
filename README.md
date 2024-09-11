@@ -31,7 +31,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Stuthi2310/Stuthi2310.github.io](https://github.com/Stuthi2310/Stuthi2310.github.io) - Personal Portfolio (2 weeks ago)
+- [Stuthi2310/Stuthi2310.github.io](https://github.com/Stuthi2310/Stuthi2310.github.io) - Personal Portfolio (3 weeks ago)
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (7 months ago)
 - [eshwarhs/Cruddur](https://github.com/eshwarhs/Cruddur) - 🔎 Micro-Blogging platform with ephemeral content and social networking (11 months ago)
 - [eshwarhs/TerraTowns](https://github.com/eshwarhs/TerraTowns) -  (11 months ago)
@@ -43,7 +43,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Feat: Implement dashboard table](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/4) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (11 months ago)
+- [Feat: Implement dashboard table](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/4) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (1 year ago)
 - [Fix errors in CDP data](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/3) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (1 year ago)
 - [Added controversy level to dataset](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/1) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (1 year ago)
 - [feat: add `workspace add-user` command](https://github.com/argilla-io/argilla/pull/3712) on [argilla-io/argilla](https://github.com/argilla-io/argilla) (1 year ago)
