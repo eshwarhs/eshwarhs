@@ -52,6 +52,10 @@
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#4](https://github.com/eshwarhs/learn-user-stories/issues/4) in [eshwarhs/learn-user-stories](https://github.com/eshwarhs/learn-user-stories)
+2. ❗ Opened issue [#3](https://github.com/eshwarhs/learn-user-stories/issues/3) in [eshwarhs/learn-user-stories](https://github.com/eshwarhs/learn-user-stories)
+3. ❗ Opened issue [#2](https://github.com/eshwarhs/learn-user-stories/issues/2) in [eshwarhs/learn-user-stories](https://github.com/eshwarhs/learn-user-stories)
+4. ❗ Opened issue [#1](https://github.com/eshwarhs/learn-user-stories/issues/1) in [eshwarhs/learn-user-stories](https://github.com/eshwarhs/learn-user-stories)
 <!--END_SECTION:activity-->
 
 
