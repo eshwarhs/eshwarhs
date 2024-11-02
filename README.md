@@ -32,7 +32,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Stuthi2310/Stuthi2310.github.io](https://github.com/Stuthi2310/Stuthi2310.github.io) - Personal Portfolio (2 months ago)
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (8 months ago)
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (9 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -49,11 +49,6 @@
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/eshwarhs/learn-user-stories/issues/3) in [eshwarhs/learn-user-stories](https://github.com/eshwarhs/learn-user-stories)
-2. 🔒 Closed issue [#2](https://github.com/eshwarhs/learn-user-stories/issues/2) in [eshwarhs/learn-user-stories](https://github.com/eshwarhs/learn-user-stories)
-3. 🔒 Closed issue [#4](https://github.com/eshwarhs/learn-user-stories/issues/4) in [eshwarhs/learn-user-stories](https://github.com/eshwarhs/learn-user-stories)
-4. 🔒 Closed issue [#1](https://github.com/eshwarhs/learn-user-stories/issues/1) in [eshwarhs/learn-user-stories](https://github.com/eshwarhs/learn-user-stories)
-5. 🔓 Reopened issue [#4](https://github.com/eshwarhs/learn-user-stories/issues/4) in [eshwarhs/learn-user-stories](https://github.com/eshwarhs/learn-user-stories)
 <!--END_SECTION:activity-->
 
 
