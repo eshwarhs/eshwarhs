@@ -44,16 +44,10 @@
 - [Fix errors in CDP data](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/3) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (1 year ago)
 - [Added controversy level to dataset](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/1) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (1 year ago)
 - [feat: add `workspace add-user` command](https://github.com/argilla-io/argilla/pull/3712) on [argilla-io/argilla](https://github.com/argilla-io/argilla) (1 year ago)
-- [feat/cli : add `python -m argilla workspaces create` command](https://github.com/argilla-io/argilla/pull/3676) on [argilla-io/argilla](https://github.com/argilla-io/argilla) (1 year ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/eshwarhs/learn-user-stories/issues/3) in [eshwarhs/learn-user-stories](https://github.com/eshwarhs/learn-user-stories)
-2. 🔒 Closed issue [#2](https://github.com/eshwarhs/learn-user-stories/issues/2) in [eshwarhs/learn-user-stories](https://github.com/eshwarhs/learn-user-stories)
-3. 🔒 Closed issue [#4](https://github.com/eshwarhs/learn-user-stories/issues/4) in [eshwarhs/learn-user-stories](https://github.com/eshwarhs/learn-user-stories)
-4. 🔒 Closed issue [#1](https://github.com/eshwarhs/learn-user-stories/issues/1) in [eshwarhs/learn-user-stories](https://github.com/eshwarhs/learn-user-stories)
-5. 🔓 Reopened issue [#4](https://github.com/eshwarhs/learn-user-stories/issues/4) in [eshwarhs/learn-user-stories](https://github.com/eshwarhs/learn-user-stories)
 <!--END_SECTION:activity-->
 
 
