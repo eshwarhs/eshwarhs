@@ -36,22 +36,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.13.1](https://github.com/argoproj/argo-cd/releases/tag/v2.13.1), 6 days ago) - Declarative Continuous Deployment for Kubernetes
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.13.1](https://github.com/argoproj/argo-cd/releases/tag/v2.13.1), 1 week ago) - Declarative Continuous Deployment for Kubernetes
 
 #### 🔨 Latest Pull Requests I published
 
+- [Test PR](https://github.com/CSE-316-Software-Development/learn-continuous-integration/pull/17) on [CSE-316-Software-Development/learn-continuous-integration](https://github.com/CSE-316-Software-Development/learn-continuous-integration) (1 day ago)
 - [Feat: Implement dashboard table](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/4) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (1 year ago)
 - [Fix errors in CDP data](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/3) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (1 year ago)
-- [Added controversy level to dataset](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/1) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (1 year ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/eshwarhs/learn-user-stories/issues/3) in [eshwarhs/learn-user-stories](https://github.com/eshwarhs/learn-user-stories)
-2. 🔒 Closed issue [#2](https://github.com/eshwarhs/learn-user-stories/issues/2) in [eshwarhs/learn-user-stories](https://github.com/eshwarhs/learn-user-stories)
-3. 🔒 Closed issue [#4](https://github.com/eshwarhs/learn-user-stories/issues/4) in [eshwarhs/learn-user-stories](https://github.com/eshwarhs/learn-user-stories)
-4. 🔒 Closed issue [#1](https://github.com/eshwarhs/learn-user-stories/issues/1) in [eshwarhs/learn-user-stories](https://github.com/eshwarhs/learn-user-stories)
-5. 🔓 Reopened issue [#4](https://github.com/eshwarhs/learn-user-stories/issues/4) in [eshwarhs/learn-user-stories](https://github.com/eshwarhs/learn-user-stories)
 <!--END_SECTION:activity-->
 
 
