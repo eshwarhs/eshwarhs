@@ -40,18 +40,14 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Test PR](https://github.com/CSE-316-Software-Development/learn-continuous-integration/pull/17) on [CSE-316-Software-Development/learn-continuous-integration](https://github.com/CSE-316-Software-Development/learn-continuous-integration) (4 days ago)
-- [Feat: Implement dashboard table](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/4) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (1 year ago)
-- [Fix errors in CDP data](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/3) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (1 year ago)
+- [ Sync Code and Check SetupDeploy Action script](https://github.com/eshwarhs/learn-continuous-integration/pull/1) on [eshwarhs/learn-continuous-integration](https://github.com/eshwarhs/learn-continuous-integration) (today)
+- [ Sync Code and Check SetupDeploy Action script](https://github.com/CSE-316-Software-Development/learn-continuous-integration/pull/25) on [CSE-316-Software-Development/learn-continuous-integration](https://github.com/CSE-316-Software-Development/learn-continuous-integration) (today)
+- [Sync Code and Check SetupDeploy Action script](https://github.com/CSE-316-Software-Development/learn-continuous-integration/pull/24) on [CSE-316-Software-Development/learn-continuous-integration](https://github.com/CSE-316-Software-Development/learn-continuous-integration) (today)
+- [Test PR](https://github.com/CSE-316-Software-Development/learn-continuous-integration/pull/17) on [CSE-316-Software-Development/learn-continuous-integration](https://github.com/CSE-316-Software-Development/learn-continuous-integration) (5 days ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#17](https://github.com/CSE-316-Software-Development/learn-continuous-integration/pull/17) in [CSE-316-Software-Development/learn-continuous-integration](https://github.com/CSE-316-Software-Development/learn-continuous-integration)
-2. 💪 Opened PR [#17](https://github.com/CSE-316-Software-Development/learn-continuous-integration/pull/17) in [CSE-316-Software-Development/learn-continuous-integration](https://github.com/CSE-316-Software-Development/learn-continuous-integration)
-3. 🔒 Closed issue [#3](https://github.com/eshwarhs/learn-user-stories/issues/3) in [eshwarhs/learn-user-stories](https://github.com/eshwarhs/learn-user-stories)
-4. 🔒 Closed issue [#2](https://github.com/eshwarhs/learn-user-stories/issues/2) in [eshwarhs/learn-user-stories](https://github.com/eshwarhs/learn-user-stories)
-5. 🔒 Closed issue [#4](https://github.com/eshwarhs/learn-user-stories/issues/4) in [eshwarhs/learn-user-stories](https://github.com/eshwarhs/learn-user-stories)
 <!--END_SECTION:activity-->
 
 
