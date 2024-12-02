@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Eshwar Hebbur Shivakumar</h1>
-<h3 align="center">I am an experienced Backend Engineer looking for opportunities in the DevOps and SRE domains.</h3>
+<h3 align="center">I am an experienced Backend Engineer looking for opportunities in Backend, DevOps and SRE domains.</h3>
 
 <!-- Profile Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshwarhs&label=Profile%20views&color=0e75b6&style=flat" alt="eshwarhs" /> </p>
