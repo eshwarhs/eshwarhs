@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Eshwar Hebbur Shivakumar</h1>
-<h3 align="center">I am an experienced Backend Engineer looking for opportunities in the DevOps and SRE domains.</h3>
+<h3 align="center">I am an experienced Backend Engineer looking for opportunities in Backend, DevOps and SRE domains.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshwarhs&label=Profile%20views&color=0e75b6&style=flat" alt="eshwarhs" /> </p>
@@ -32,7 +32,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Stuthi2310/Stuthi2310.github.io](https://github.com/Stuthi2310/Stuthi2310.github.io) - Personal Portfolio (3 months ago)
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (9 months ago)
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (10 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -40,19 +40,14 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [ Sync Code and Check SetupDeploy Action script](https://github.com/eshwarhs/learn-continuous-integration/pull/1) on [eshwarhs/learn-continuous-integration](https://github.com/eshwarhs/learn-continuous-integration) (today)
-- [ Sync Code and Check SetupDeploy Action script](https://github.com/CSE-316-Software-Development/learn-continuous-integration/pull/25) on [CSE-316-Software-Development/learn-continuous-integration](https://github.com/CSE-316-Software-Development/learn-continuous-integration) (today)
-- [Sync Code and Check SetupDeploy Action script](https://github.com/CSE-316-Software-Development/learn-continuous-integration/pull/24) on [CSE-316-Software-Development/learn-continuous-integration](https://github.com/CSE-316-Software-Development/learn-continuous-integration) (today)
-- [Test PR](https://github.com/CSE-316-Software-Development/learn-continuous-integration/pull/17) on [CSE-316-Software-Development/learn-continuous-integration](https://github.com/CSE-316-Software-Development/learn-continuous-integration) (5 days ago)
+- [ Sync Code and Check SetupDeploy Action script](https://github.com/eshwarhs/learn-continuous-integration/pull/1) on [eshwarhs/learn-continuous-integration](https://github.com/eshwarhs/learn-continuous-integration) (1 day ago)
+- [ Sync Code and Check SetupDeploy Action script](https://github.com/CSE-316-Software-Development/learn-continuous-integration/pull/25) on [CSE-316-Software-Development/learn-continuous-integration](https://github.com/CSE-316-Software-Development/learn-continuous-integration) (1 day ago)
+- [Sync Code and Check SetupDeploy Action script](https://github.com/CSE-316-Software-Development/learn-continuous-integration/pull/24) on [CSE-316-Software-Development/learn-continuous-integration](https://github.com/CSE-316-Software-Development/learn-continuous-integration) (1 day ago)
+- [Test PR](https://github.com/CSE-316-Software-Development/learn-continuous-integration/pull/17) on [CSE-316-Software-Development/learn-continuous-integration](https://github.com/CSE-316-Software-Development/learn-continuous-integration) (6 days ago)
 
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/eshwarhs/learn-continuous-integration/pull/1) in [eshwarhs/learn-continuous-integration](https://github.com/eshwarhs/learn-continuous-integration)
-2. 💪 Opened PR [#1](https://github.com/eshwarhs/learn-continuous-integration/pull/1) in [eshwarhs/learn-continuous-integration](https://github.com/eshwarhs/learn-continuous-integration)
-3. ❌ Closed PR [#25](https://github.com/CSE-316-Software-Development/learn-continuous-integration/pull/25) in [CSE-316-Software-Development/learn-continuous-integration](https://github.com/CSE-316-Software-Development/learn-continuous-integration)
-4. 💪 Opened PR [#25](https://github.com/CSE-316-Software-Development/learn-continuous-integration/pull/25) in [CSE-316-Software-Development/learn-continuous-integration](https://github.com/CSE-316-Software-Development/learn-continuous-integration)
-5. ❌ Closed PR [#24](https://github.com/CSE-316-Software-Development/learn-continuous-integration/pull/24) in [CSE-316-Software-Development/learn-continuous-integration](https://github.com/CSE-316-Software-Development/learn-continuous-integration)
 <!--END_SECTION:activity-->
 
 
