@@ -32,11 +32,11 @@
 #### 👷 Check out what I'm currently working on
 
 - [Stuthi2310/Stuthi2310.github.io](https://github.com/Stuthi2310/Stuthi2310.github.io) - Personal Portfolio (4 months ago)
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (10 months ago)
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.0-rc3](https://github.com/argoproj/argo-cd/releases/tag/v2.14.0-rc3), 1 week ago) - Declarative Continuous Deployment for Kubernetes
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.0-rc3](https://github.com/argoproj/argo-cd/releases/tag/v2.14.0-rc3), 2 weeks ago) - Declarative Continuous Deployment for Kubernetes
 
 #### 🔨 Latest Pull Requests I published
 
@@ -44,11 +44,6 @@
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/eshwarhs/learn-continuous-integration/pull/1) in [eshwarhs/learn-continuous-integration](https://github.com/eshwarhs/learn-continuous-integration)
-2. 💪 Opened PR [#1](https://github.com/eshwarhs/learn-continuous-integration/pull/1) in [eshwarhs/learn-continuous-integration](https://github.com/eshwarhs/learn-continuous-integration)
-3. ❌ Closed PR [#25](https://github.com/CSE-316-Software-Development/learn-continuous-integration/pull/25) in [CSE-316-Software-Development/learn-continuous-integration](https://github.com/CSE-316-Software-Development/learn-continuous-integration)
-4. 💪 Opened PR [#25](https://github.com/CSE-316-Software-Development/learn-continuous-integration/pull/25) in [CSE-316-Software-Development/learn-continuous-integration](https://github.com/CSE-316-Software-Development/learn-continuous-integration)
-5. ❌ Closed PR [#24](https://github.com/CSE-316-Software-Development/learn-continuous-integration/pull/24) in [CSE-316-Software-Development/learn-continuous-integration](https://github.com/CSE-316-Software-Development/learn-continuous-integration)
 <!--END_SECTION:activity-->
 
 
