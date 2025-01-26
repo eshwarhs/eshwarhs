@@ -36,7 +36,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.0-rc6](https://github.com/argoproj/argo-cd/releases/tag/v2.14.0-rc6), 4 days ago) - Declarative Continuous Deployment for Kubernetes
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.0-rc6](https://github.com/argoproj/argo-cd/releases/tag/v2.14.0-rc6), 5 days ago) - Declarative Continuous Deployment for Kubernetes
 
 #### 🔨 Latest Pull Requests I published
 
@@ -44,11 +44,6 @@
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/eshwarhs/learn-continuous-integration/pull/1) in [eshwarhs/learn-continuous-integration](https://github.com/eshwarhs/learn-continuous-integration)
-2. 💪 Opened PR [#1](https://github.com/eshwarhs/learn-continuous-integration/pull/1) in [eshwarhs/learn-continuous-integration](https://github.com/eshwarhs/learn-continuous-integration)
-3. ❌ Closed PR [#25](https://github.com/CSE-316-Software-Development/learn-continuous-integration/pull/25) in [CSE-316-Software-Development/learn-continuous-integration](https://github.com/CSE-316-Software-Development/learn-continuous-integration)
-4. 💪 Opened PR [#25](https://github.com/CSE-316-Software-Development/learn-continuous-integration/pull/25) in [CSE-316-Software-Development/learn-continuous-integration](https://github.com/CSE-316-Software-Development/learn-continuous-integration)
-5. ❌ Closed PR [#24](https://github.com/CSE-316-Software-Development/learn-continuous-integration/pull/24) in [CSE-316-Software-Development/learn-continuous-integration](https://github.com/CSE-316-Software-Development/learn-continuous-integration)
 <!--END_SECTION:activity-->
 
 
