@@ -36,7 +36,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.0-rc7](https://github.com/argoproj/argo-cd/releases/tag/v2.14.0-rc7), 4 days ago) - Declarative Continuous Deployment for Kubernetes
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.14.0-rc7](https://github.com/argoproj/argo-cd/releases/tag/v2.14.0-rc7), 5 days ago) - Declarative Continuous Deployment for Kubernetes
 
 #### 🔨 Latest Pull Requests I published
 
