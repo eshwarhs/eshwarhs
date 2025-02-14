@@ -31,7 +31,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [eshwarhs/eshwarhs.github.io](https://github.com/eshwarhs/eshwarhs.github.io) - My Portfolio Website (2 days ago)
+- [eshwarhs/eshwarhs.github.io](https://github.com/eshwarhs/eshwarhs.github.io) - My Portfolio Website (3 days ago)
 - [Stuthi2310/Stuthi2310.github.io](https://github.com/Stuthi2310/Stuthi2310.github.io) - Personal Portfolio (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -39,6 +39,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [ Sync Code and Check SetupDeploy Action script](https://github.com/CSE-316-Software-Development/learn-continuous-integration/pull/25) on [CSE-316-Software-Development/learn-continuous-integration](https://github.com/CSE-316-Software-Development/learn-continuous-integration) (2 months ago)
+- [Sync Code and Check SetupDeploy Action script](https://github.com/CSE-316-Software-Development/learn-continuous-integration/pull/24) on [CSE-316-Software-Development/learn-continuous-integration](https://github.com/CSE-316-Software-Development/learn-continuous-integration) (2 months ago)
+- [Test PR](https://github.com/CSE-316-Software-Development/learn-continuous-integration/pull/17) on [CSE-316-Software-Development/learn-continuous-integration](https://github.com/CSE-316-Software-Development/learn-continuous-integration) (2 months ago)
+- [Feat: Implement dashboard table](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/4) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (1 year ago)
+- [Fix errors in CDP data](https://github.com/eshwarhs/SP500-Sustainability-Scorer/pull/3) on [eshwarhs/SP500-Sustainability-Scorer](https://github.com/eshwarhs/SP500-Sustainability-Scorer) (1 year ago)
 
 #### ⚡ Recent Activity
 
